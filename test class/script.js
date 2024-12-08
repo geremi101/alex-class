@@ -1,0 +1,1 @@
+document.getElementById('domo').innerHTML = "Geremi";
