@@ -1,1 +1,1 @@
-document.getElementById('domo').innerHTML = "Hello Alex";
+document.getElementById('domo').innerHTML = "Hello Alex and Geremi";
